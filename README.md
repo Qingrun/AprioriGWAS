@@ -1,5 +1,5 @@
 # AprioriGWAS
-Identifying gene-gene interaction in genome wide association studies
+AprioriGWAS is fast tool to identify gene-gene interaction in genome wide association studies
 
 
 # Reference
